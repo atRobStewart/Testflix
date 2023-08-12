@@ -1,6 +1,6 @@
 # Site Settings
 name: Jekflix
-title: Testflix2
+title: Testflix | A blog theme for Jekyll
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -45,9 +45,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-root: /octo-5
-baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "https://atrobstewart.github.io/Testflix" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
@@ -106,5 +105,4 @@ exclude: [
 ]
 
 # Theme
-theme: jekflix
 version: v3.1.2
