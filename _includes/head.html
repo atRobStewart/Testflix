@@ -62,10 +62,10 @@
     <meta property="og:site_name" content="{{ site.title }}">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="{{ 'favicon.ico' | prepend: site.baseurl | prepend: site.githubprepend }}" type="image/x-icon" />
     
     <!-- Apple Touch Icons -->
-    <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/img/icons/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" href="{{ 'assets/img/icons/apple-touch-icon.png' | prepend: site.baseurl | prepend: site.githubprepend }}" />
     <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/icons/apple-touch-icon-57x57.png" />
     <link rel="apple-touch-icon" sizes="72x72" href="/assets/img/icons/apple-touch-icon-72x72.png" />
     <link rel="apple-touch-icon" sizes="114x114" href="/assets/img/icons/apple-touch-icon-114x114.png" />
@@ -89,9 +89,9 @@
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Titillium+Web:300,400,700" rel="stylesheet">
 
-    <link rel="stylesheet" href="{{ 'assets/css/styles.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ 'assets/css/styles.css' | prepend: site.baseurl | prepend: site.githubprepend }}">
     <link rel="canonical" href="{{ url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ 'feed.xml' | prepend: site.baseurl | prepend: site.url | prepend: site.githubprepend }}" />
 
     <!-- Include extra styles -->
     {% include extra-css.html %}
