@@ -40,7 +40,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "Testflix" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "atrobstewart.github.io" # the base hostname & protocol for your site
 githubprepend: ""
 githubpostprepend: "_site"
