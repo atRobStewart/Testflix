@@ -4,7 +4,7 @@ layout: post
 title: "This is a test post"
 subtitle:
 description:
-image:
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image:
 category: crisiscore
 tags:
