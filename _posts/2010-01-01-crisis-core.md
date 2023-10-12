@@ -10,7 +10,8 @@ category: crisis core
 tags:
   - square enix
   - ff7
-author: mranderson
+  - jrpg
+author: robstewart
 paginate: false
 ---
 The following are bugs and glitches I found on my playthrough of Crisis Core. With this being a remaster of an older game it is very robust and difficult to break, 40+ plus hours were clocked before the first of 2 notable bugs were found.
