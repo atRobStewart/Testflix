@@ -2,7 +2,6 @@
 <html lang="{{ site.language }}" class="no-js">
     {% include head.html %}
     <body class="has-push-menu">
-        {% include minutes-to-read.html %}
         {% include svg-icons.html %}
         {% include header.html %}
 
@@ -15,8 +14,6 @@
                             {% include date.html date=page.date %}
                         </time>
                     {% endif %}
-                    <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
-                    <span>{{ minutesText }}</span>
                 </p>
                 <h1 class="post-title">{{ page.title }}</h1>
                 <p class="post-subtitle">{{ page.subtitle }}</p>
@@ -76,8 +73,6 @@
             {% include modal.html title="Don't go yet!" subtitle="You may also like..." closed=true showOnExit=true %}
         {% endif %}
 
-        {% include subscription.html %}
-        {% include share.html %}
         {% include author.html %}
         {% include comments.html %}
         {% include footer.html %}

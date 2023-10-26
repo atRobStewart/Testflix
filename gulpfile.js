@@ -34,7 +34,7 @@ function notify(message) {
  * Build the main YAML config file.
  */
 function config() {
-  return gulp.src('src/yml/_config.yml')
+  return gulp.src('_config.yml')
     .pipe(include())
     .on('error', console.error)
     .pipe(gulp.dest('./'));
