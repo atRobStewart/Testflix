@@ -14,11 +14,11 @@ author: mranderson
 paginate: false
 ---
 
-This season of Baldur's Gate 3 will hold a unique aspect to it against my other shows in the sense that most of this game was played in spltiscreen mode. Furthermore the game was played entirely online with a third friend involved. I was also the host player for the entire duration.
+This season of Baldur's Gate 3 will have a unique aspect compared to my other shows, in the sense that most of this game was played in split-screen mode. Furthermore, the game was played entirely online with a friend involved, and I was the host player for the entire duration.
 
-Important Note, the version history for this game is hidden on PS5 so I cannot find old patch and hotfix update numbers, all I can confirm is that the game has had many hotfixes and 2 major patches since I've played it. The later episodes will have a legit software version number since I will be recording them as they come in, lesson has been learned.
+Important Note, the version history for this game is hidden on PS5 so I cannot find old patch and hotfix update numbers, all I can confirm is that the game has had many hotfixes and 2 major patches since I've played it. The later episodes will have a legit software version number since I will be recording them as they come in, a lesson has been learned.
 
-Honorable bug mention that I never recorded and got fixed. In spiltscreen mode if a new entity like Guardian or Mage Hand was summoned be it in battle or not, the two players in splitscreen mode experienced a complete graphical freeze for anywhere between 15 - 30 seconds. Audio didn't freeze but was staggered and contorted for the whole duration. The third online player did not experience any of this.
+An honourable bug mention that I never recorded but got fixed and involved split-screen mode. When a new entity, such as Guardian or Mage Hand, was summoned, whether in battle or not, the two players in split-screen mode experienced a complete graphical freeze lasting anywhere between 15 to 30 seconds. During this time, the audio didn't freeze but was staggered and contorted. Interestingly, the third online player did not experience any of these issues.
 
 ## Episode 1
 ### Inappropriate Shadowheart 
@@ -29,14 +29,31 @@ Software version number: 04092023 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/omerc0Ii4Oc?si=DrySZcDbfNpj-CFa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<table>
+    <thead>
+      <tr>
+        <th>Chapter</th>
+        <th>Mission</th>
+        <th>Location</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Hag hunt</td>
+        <td>Hags lair</td>
+      </tr>
+  </tbody>
+</table>
+
 Description:
-* Shadowheart appears in a scene in the players mind between two paladins and a cleric, my assumption is she settled in this area when the dialogue was started and it happened to be the stage for this scene.
-* This scene doesn't appear until 40 seconds into the video, but she does appear three times beforehand and looks out of place in the sense that shes facing a different direction and isn't reacting to the point of interest.
+* Shadowheart appears in a scene in the player's mind between two paladins and a cleric. My assumption is she settled in this area when the dialogue was started, and it happened to be the stage for this scene.
+* This scene doesn't appear until 40 seconds into the video, but she does appear three times before that, looking out of place. She's facing a different direction and isn't reacting to the point of interest.
 * Furthermore, the other two players are not in this scene at all and I can confirm that we both walked up to the player in control to interact with his character to view the scene, we should appear beside Shadowheart.
 
-I'd have to give this a **minor** severity level with **medium** priority especially when considering other more pressing issues the game had at the time of playing this part. It's by no means game breaking but it does break the immersion quite effectively, it's'also a regularly occurring bug so I feel it should be fixed with reasonable haste. 
+I'd have to give this a minor severity level with medium priority especially when considering other more pressing issues the game had at the time of playing this part. It's by no means game-breaking but it does break the immersion quite effectively, it's also a regularly occurring bug so I feel it should be fixed with reasonable haste.
 
-I will also note that after this episode we did get over the fact that we can take our characters clothes off ':)
+I will also note that after this episode we did get over the fact that we could take our character's clothes off ':)
 
 *Update* this bug has been fixed.
 
