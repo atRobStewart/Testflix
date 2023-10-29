@@ -30,7 +30,7 @@ Description:
  * This is replicable but difficult to achieve as it requires frame-perfect timing. I succeeded in replicating it only once.
  * The effect gets removed at the start of a new battle or when loading into a new area.
 
- Severity level is **minor**, this does not break the game or cause any other negative effects. Furthermore, it can be fixed by the player without having to do anything drastic like restarting the game.
+ Severity level is **minor** with a **low** priority, this does not break the game or cause any other negative effects. Furthermore, it can be fixed by the player without having to do anything drastic like restarting the game.
 
 
 
