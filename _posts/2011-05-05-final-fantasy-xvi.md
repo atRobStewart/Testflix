@@ -24,7 +24,7 @@ Except for regular frame drops despite playing in performance mode, Final Fantas
         <th>Platform</th>
         <th>Firmware</th>
         <th>Software</th>
-        <th>Chapter</th>
+        <th>Mission</th>
         <th>Location</th>
       </tr>
     </thead>
@@ -62,3 +62,100 @@ Description:
 * If you re-enter the chat option and restart the dialogue, the text size remains inconsistent.
 
 This severity level is **cosmetic** with a **low** priority. It's a small bug that many probably won't notice, so I've given it the lowest score. It's also the only instance I caught in my entire playthrough. 
+
+## Episode 2
+### Framerate Drops
+
+<table>
+    <thead>
+      <tr>
+        <th>Platform</th>
+        <th>Firmware</th>
+        <th>Software</th>
+        <th>Mission</th>
+        <th>Location</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>PlayStation 5</td>
+        <td>v23.01-07.61.00</td>
+        <td>1.03</td>
+        <td>null</td>
+        <td>Martha's Rest</td>
+      </tr>
+  </tbody>
+</table>
+
+<table>
+    <thead>
+      <tr>
+        <th>Bug Severity</th>
+        <th>Priority level</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Moderate</td>
+        <td>Medium</td>
+      </tr>
+  </tbody>
+</table>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5jZL3Npl3qQ?si=vmMLbIGAxZcZqETK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Description:
+* While in performance mode, which should reliably support a solid 60fps in 1920 x 1080p resolution, the game experiences regular frame drops.
+* Additionally, in quality mode, the game runs at 30fps with 3840 x 2160p resolution. The performance is consistent throughout, but it doesn't feel smooth, and the camera movement always feels rough and dragged.
+
+I have to give this issue a **moderate** severity rating with a **medium** priority. The frame drops are very common and occur almost anywhere in the game. This lack of performance can be a deal-breaker for many, and it always grabs my attention anytime it happens, taking me out of my enjoyment of the game. While it doesn't break the game or hinder any functionality, solid 60fps at 1080p should be a basic standard for any game on these modern systems. It is expected by the majority of gamers, especially when playing AAA games. The quality mode should also not be ignored; its 30fps should feel as smooth as Baldur's Gate 3, which runs at a solid and smooth 30fps at 2560 x 1440p in split-screen mode.
+
+## Episode 3
+### Jump instead of Interact
+
+<table>
+    <thead>
+      <tr>
+        <th>Platform</th>
+        <th>Firmware</th>
+        <th>Software</th>
+        <th>Sub Mission</th>
+        <th>Main Mission</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>PlayStation 5</td>
+        <td>v23.01-07.61.00</td>
+        <td>1.03</td>
+        <td>Letting off Steam I</td>
+        <td>Out of the Shadow</td>
+      </tr>
+  </tbody>
+</table>
+
+<table>
+    <thead>
+      <tr>
+        <th>Bug Severity</th>
+        <th>Priority level</th>
+        <th>Location</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Minor</td>
+        <td>Low</td>
+        <td>The Dalimil Inn</td>
+      </tr>
+  </tbody>
+</table>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/541ThXbmiLg?si=DeMUhbq1KwnlJupb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Description:
+* While sprinting, any time you attempt to interact with an interactable object, Clive jumps first, causing you to press the interact button again.
+
+
+
+Declaring this as a bug is debatable because if you look closely, the button prompt is shaded out, and the mission marker has a cross through it to indicate that you can't interact with it while sprinting. This implies it's an intentional design, but the question is, is it a good design? For me and a few others that I've spoken to about this, we have found this feature to be a frustrating one. I do feel like the player should be able to interact with these elements directly from a sprint. The need to manually stop seems redundant when you could program Clive to automatically stop once an interaction is initiated, or in the case of this particular item, just pick it up while continuing the sprint and cancel the pickup animation. To bring attention to it, I would give it a **minor** severity score with a **low** priority because it's just a minor inconvenience and doesn't disrupt the game flow too much.
