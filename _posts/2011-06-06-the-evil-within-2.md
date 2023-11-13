@@ -59,7 +59,7 @@ I'm five years late to this game, so I played it in its final state. Any bugs fo
 | As Sebastian walks, he gets snagged on the ground. Like Episode 1, his fall animation briefly triggers, stops, and then he falls off a short ledge to his left. |
 | This also occurs with no player input, except for moving the camera, once the snag is hit. |
 | It appears that this issue can be triggered anywhere the player can change Sebastian's elevation. |
-| Another bonus cosmetic bug: at the beginning of the video, you can plainly see the grass loading in. I won't be pointing out any more of these, as during development, they would each have their own reports and dedicate |
+| Another bonus cosmetic bug: at the beginning of the video, you can plainly see the grass loading in. I won't be pointing out any more of these, as during development, they would each have their own reports and dedicated tracking. |
 
 
 
