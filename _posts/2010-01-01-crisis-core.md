@@ -3,40 +3,40 @@ date: 2023-09-18T13:48:05.000Z
 layout: post
 title: ""
 description: >-
-  Discover the story of SOLDIER operative Zack Fair, a young warrior who discovers the truth behind his employer's secret experiments.
+  You play as a young shaman named Zau who must capture spririts for the God of Death, Kalunga, who in return has promised to revive his dead father.
 image: >-
-  https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_CrisisCoreFinalFantasy7Reunion_image1600w.jpg
-category: crisis core
+  https://media.contentapi.ea.com/content/dam/ea/tales-of-kenzera/zau/common/olorun-fpo-feat-img.png.adapt.crop16x9.1023w.png
+category: Tales of Kenzera Zau
 tags:
-  - square enix
-  - ff7
-  - jrpg
+  - stormcloud studios
+  - ea originals
+  - metroidvania
 author: robstewart
 paginate: false
 ---
-The following are bugs and glitches I found during my playthrough of Crisis Core. As this is a remaster of an older game, it is very robust and difficult to break. I had already spent over 40 hours playing before the first of the two notable bugs were found.
+The following are bugs and glitches I found during my playthrough of Tales of Kenzera: Zau. Being a side-scrolling metroidvania made it a more difficult game to find bugs in with the lack of z axis interactablility, but considering it's new I knew bugs would be enevitable and ultimately this game didn't disappoint. I will also note that this game is an absolute gem and has a stunning amount of character, personality and indentity, I was hooked from start to finish with the exception of the break I had to take... Speaking of which let's get to the first episode.
 
 
 
-## Episode 1
-### Darkness Screen Overlay Bug
+## Episode 1 (Bug has been fixed)
+### Act 2 Great Spirit chase sequence soft lock (Captured on 19/05/2024)
 
-| Platform      | Firmware        | Software | Location | Mission Name              |
-| ------------- | --------------- | -------- | -------- | ------------------------- |
-| PlayStation 5 | v23.01-07.61.00 | 1.03     | M9-5-3   | Unusually Strong Monsters |
+| Platform      | Firmware          | Software | Location       | Mission |
+| ------------- | ----------------- | -------- | -------------- | ------- |
+| PlayStation 5 | 24.03-09.20.00.05 | 1.1      | Under Wildwood | Escape  |
 
 | Bug Severity | Priority level |
 | ------------ | -------------- |
-| Minor        | Low            |
+| Major        | Critical       |
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TW9o_cgOMrg?si=LGVol2bTWD_wINyN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fudmDtAomR4?si=hn8RSOKoAGGuz1SC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | Description |
 | :-- |
-| While in combat with the Scissor Devil or enemies capable of using the Ultima attack, if I time my Darkness attack to execute simultaneously with the enemy's Ultima, the Darkness overlay effect will remain on screen after the battle. |
-| All enemies must be defeated for this to happen, causing the battle to end at the same time the moves execute. |
-| This is replicable but difficult to achieve as it requires frame-perfect timing. I succeeded in replicating it only once. |
-| The effect gets removed at the start of a new battle or when loading into a new area. |
+| If you climb the wall to the right instead of going left as the game intended, an unbreakable rock appears on the pathway blocking the player from progressing. |
+| AThe rock loads in off-screen so it is difficult to determine what caused it with no access to the game log files. |
+| A trigger point along the right side pathway loaded it in. |
+| My guess is when you reach the end of the pathway the dialog and autosave load the rock in to prevent players who went left initially from following the path again and going around in circles. |
 
 
 
@@ -47,4 +47,6 @@ The following are bugs and glitches I found during my playthrough of Crisis Core
 ## Blog
 
 ### Episode 1
- Severity level is **minor** with a **low** priority, this does not break the game or cause any other negative effects. Furthermore, it can be fixed by the player without having to do anything drastic like restarting the game.
+ Severity level is **major** with a **critical** priority. This bug softlocks the player indefintely, thanks to the autosave and a lack of manual saving there is no way for the player to revert to a point before the softlock, with the exception of restarting the entire game, no ideal for most. Anything that stops players in their tracks like this should get the highest priority because it can bring about a lot of negative publicity causing an otherwise great game to get review bombed. 
+ <br>
+ **Update** the bug got fixed a few days after I found it, it was great to see a fix rolled out so quickly for it.

@@ -4,7 +4,7 @@ layout: post
 title: ""
 subtitle: 
 description: Final Fantasy XVI is set in the twin continents of Valisthea, currently divided between six nations who hold power through access to magical Crystals and Dominants, humans who act as hosts for each nation's Eikon. Tensions between the nations escalate as a magical drought dubbed the Blight begins consuming the land.
-image: https://techraptor.net/sites/default/files/styles/hero/public/2023-06/Final%20Fantasy%20XVI%20Key%20Art_0.jpg?itok=x48Xm_WH
+image: https://www.gematsu.com/wp-content/uploads/2022/12/FF16-Release-Date-Set_12-08-22.jpg?w=640
 category: Final Fantasy XVI
 tags:
   - square enix
