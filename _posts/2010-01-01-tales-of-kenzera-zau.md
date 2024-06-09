@@ -21,7 +21,7 @@ Blog section after the last episode goes into detail on my thoughts about each e
 
 
 ## Episode 1 (Bug has been fixed)
-### Act 2 Great Spirit chase sequence soft lock (Captured on 19/05/2024)
+### Act 2 Great Spirit chase sequence soft lock
 
 | Platform      | Firmware          | Software | Location       | Mission |
 | ------------- | ----------------- | -------- | -------------- | ------- |
@@ -33,7 +33,7 @@ Blog section after the last episode goes into detail on my thoughts about each e
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fudmDtAomR4?si=hn8RSOKoAGGuz1SC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-| Description |
+| Description (Captured on 19/05/2024) |
 | :-- |
 | If you climb the wall to the right instead of going left as the game intended, an unbreakable rock appears on the pathway, blocking the player from progressing. |
 | The rock loads in off-screen, so it is difficult to determine what caused it with no access to the game log files. |
@@ -43,7 +43,8 @@ Blog section after the last episode goes into detail on my thoughts about each e
 
 
 ## Episode 2 (Bug has been fixed)
-### Lost movement input on exiting map (Captured on 07/05/2024)
+### Lost movement input on exiting map
+
 
 | Platform      | Firmware          | Software | Location         | Mission         |
 | ------------- | ----------------- | -------- | ---------------- | --------------- |
@@ -55,7 +56,7 @@ Blog section after the last episode goes into detail on my thoughts about each e
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lKbJ4zdh-CE?si=Y6hNtKFQnju9-Wbu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-| Description |
+| Description (Captured on 07/05/2024) |
 | :-- |
 | When closing the map, Zau does not continue to move in the direction you're holding. |
 | It's difficult to convey this in the video, but you can see that he can still look around and jump on the spot. |
@@ -70,9 +71,11 @@ Blog section after the last episode goes into detail on my thoughts about each e
 ### Episode 1
 The severity level is **major** with a **critical** priority. This bug soft locks the player indefinitely. Thanks to the autosave and a lack of manual saving, there is no way for the player to revert to a point before the soft lock, with the exception of restarting the entire game, not ideal for most. Anything that stops players in their tracks like this should get the highest priority because it can bring about a lot of negative publicity, causing an otherwise great game to get review bombed. I have stopped playing until a patch is rolled out for it.
  <br>
- **Update:** The bug got fixed a few days after I found it, as of the version 1.1.1 update. It was great to see a fix rolled out so quickly for it
+ **Update:** The bug got fixed a few days after I found it, as of the version 1.1.1 update. It was great to see a fix rolled out so quickly for it. 
+ <br/>
 
 ### Episode 2
  The severity level is **minor** but with a **medium** priority. At first, I rated it a low priority, but the more I played the game and realised how much I used the map, the more frustrating the bug became. It isn't a severe bug; it doesn't break the game or cause the player to get stuck. It's just that, with how easy it is to replicate, the repetition of executing it slowly raises blood pressure over time.
 <br>
-**Update:** This bug was fixed with the 1.1 version update. Considering I've never come across it in similar games, it's good to see that it got recognised quickly. Surgent Studios deserves great credit for their speed in dealing with these issues.
+**Update:** This bug was fixed with the 1.1 version update. Considering I've never come across it in similar games, it's good to see that it got recognised quickly. Surgent Studios deserves great credit for their speed in dealing with these issues. 
+<br/>
