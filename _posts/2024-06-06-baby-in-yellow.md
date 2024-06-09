@@ -28,7 +28,7 @@ The following are some bugs and glitches I found during my hilariously terrifyin
 | ------------ | -------------- |
 | Minor        | Low            |
 
-| Description |
+| Description (Captured on the 06/06/2024) |
 | :-- |
 | On trying to open the achievements menu on the pause screen, google prompts you to create a Play Games account. |
 | When you cancel this, you are returned to the game, but it continues to run even though it's on the pause screen. |
