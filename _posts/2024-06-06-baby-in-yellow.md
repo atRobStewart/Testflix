@@ -18,8 +18,6 @@ The following are some bugs and glitches I found during my hilariously terrifyin
 ## Episode 1
 ### Google playstore screen overlay tricks the auto pause function
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dzBZjVxtySg?si=1kPzVqfRjLU2KqPH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 | Platform | Hardware | Software  | Chapter       | Mission  |
 | ---------| -------- | --------- | ------------- | -------- |
 | Mobile   | Razor 1  | Android 9 | Rabbit - Exit | Survive! |
@@ -27,6 +25,8 @@ The following are some bugs and glitches I found during my hilariously terrifyin
 | Bug Severity | Priority level |
 | ------------ | -------------- |
 | Minor        | Low            |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dzBZjVxtySg?si=1kPzVqfRjLU2KqPH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | Description (Captured on the 06/06/2024) |
 | :-- |
