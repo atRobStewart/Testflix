@@ -65,6 +65,26 @@ Blog section after the last episode goes into detail on my thoughts about each e
 
 
 
+## Episode 3
+### Unresponsive Enemies
+
+
+| Platform      | Firmware          | Software | Location         | Mission                       |
+| ------------- | ----------------- | -------- | ---------------- | ----------------------------- |
+| PlayStation 5 | 24.03-09.20.00.05 | 1.1      | Ember's Spring   | Journey towards Mount Itshoka |
+
+| Bug Severity | Priority level |
+| ------------ | -------------- |
+| Minor        | Low            |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PCbYPM5ZMxg?si=dcvOoTmYXk8MoUbK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Description (Captured on 28/05/2024) |
+| :-- |
+| During combat, if an enemy receives an attack while off-screen, it becomes unresponsive. |
+| It only performs its idle animation. |
+| Further attacks on the enemy don't cause it to attack. |
+| The enemy can still be killed, so this can be exploited. |
 
 ## Blog
 
@@ -79,3 +99,6 @@ The severity level is **major** with a **critical** priority. This bug soft lock
 <br>
 **Update:** This bug was fixed with the 1.1 version update. Considering I've never come across it in similar games, it's good to see that it got recognised quickly. Surgent Studios deserves great credit for their speed in dealing with these issues. 
 <br/>
+
+### Episode 3
+The severity level is **minor** with a **low** priority level. I do have a few videos demonstrating this bug with different enemies, but I never found myself actively exploiting it; I just stumbled into it. Usually, fights are chaotic with several enemies on-screen, so active exploitation would be tricky at the best of times. Furthermore, people usually welcome a bug that makes a game easier, so I don't think there's any need to hurry with a fix, especially if there are more important fixes to resolve. However, it should get fixed eventually.
