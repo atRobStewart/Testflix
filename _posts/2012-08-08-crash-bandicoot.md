@@ -32,9 +32,9 @@ This is a single episode from the Crash Bandicoot N. Sane Trilogy, and it's the 
 
 | Description |
 | :-- |
-| As I reach the top of this vertical platforming section, I make contact with the geometry of the horizontal section. However, I misjudged my jump and didn't land on the flat surface. |
-| The camera switches from the vertically scrolling camera to the horizontally scrolling one as expected. However, when I fall back down, the camera does not switch back to the vertical one. |
-| This caused me to lose sight of Crash, leaving me with no choice but to move him around until I hit a fatal hazard. If I couldn't kill Crash, I would have to exit the level via the start menu. |
+| On reaching the top of this vertical platforming section, contact is made with the geometry of the horizontal section. However, the jump didn't land on the flat surface. |
+| The camera switches from the vertically scrolling camera to the horizontally scrolling one as expected. However, when falling back down, the camera does not switch back to the vertical one. |
+| This caused Crash to fall out of camera view, leaving a player with no choice but to move him around until I hit a fatal hazard. If Crash couldn't be killed you would have to exit the level via the start menu. |
 | The camera should smoothly switch between the horizontal and Vertical cameras as these particular levels were designed with backtracking in mind for completionists. |
 
 

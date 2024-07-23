@@ -86,6 +86,29 @@ Blog section after the last episode goes into detail on my thoughts about each e
 | Further attacks on the enemy don't cause it to attack. |
 | The enemy can still be killed, so this can be exploited. |
 
+
+
+## Episode 4
+### Keep aiming with holding the L2 button down
+
+| Platform      | Firmware          | Software | Location  | Mission             |
+| ------------- | ----------------- | -------- | --------- | ------------------- |
+| PlayStation 5 | 24.03-09.20.00.05 | 1.1      | Woodlands | Return to Sabulana  |
+
+| Bug Severity | Priority level |
+| ------------ | -------------- |
+| Minor        | Medium         |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1HRVr7qD0vk?si=WA-sFWAvSq3YrdPP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Description (Captured on 19/05/2024) |
+| :-- |
+| While aiming projectiles by holding the L2 button down and moving the left stick, if an overlay pops up while doing this, Zau will get stuck in this state. |
+| The aim movement being mapped to the left stick now prevents a player from moving Zau. |
+| It's easy to fix by pressing and releasing L2 again. |
+| It is also easy to replicate by opening the map and releasing L2 while on the map screen. |
+| This bug is similar to the one found in episode 2. Note that it wasn't picked up in the 1.1 patch. |
+
 ## Blog
 
 ### Episode 1
@@ -102,3 +125,6 @@ The severity level is **major** with a **critical** priority. This bug soft lock
 
 ### Episode 3
 The severity level is **minor** with a **low** priority level. I do have a few videos demonstrating this bug with different enemies, but I never found myself actively exploiting it; I just stumbled into it. Usually, fights are chaotic with several enemies on-screen, so active exploitation would be tricky at the best of times. Furthermore, people usually welcome a bug that makes a game easier, so I don't think there's any need to hurry with a fix, especially if there are more important fixes to resolve. However, it should get fixed eventually.
+
+### Episode 4
+The severity level is minor but with a medium priority. This bug is similar to the one found in episode 2, but it was much more difficult to find in comparison, as its occurrence is primarily battle-specific, whereas episode 2's centered around movement. Given how long it took me to find it comparatively, I feel a low priority would be enough, but because of the similarity, I think medium is justified to bring more attention to the nature of the bug and get the QA team to find any more potential instances of it occurring.

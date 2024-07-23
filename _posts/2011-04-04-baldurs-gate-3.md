@@ -21,7 +21,7 @@ Important Note, the version history for this game is hidden on PS5 so I cannot f
 
 
 ## Episode 1
-### Inappropriate Shadowheart 
+### Inappropriate Shadowheart (Bug has been fixed)
 
 | Platform      | Firmware        | Software | Mission   | Location  |
 | ------------- | --------------- | -------- | --------- | --------- |
@@ -39,7 +39,6 @@ Important Note, the version history for this game is hidden on PS5 so I cannot f
 | This scene doesn't appear until 40 seconds into the video, but she does appear three times before that, looking out of place. She's facing a different direction and isn't reacting to the point of interest. |
 | Furthermore, the other two players are not in this scene at all and I can confirm that we both walked up to the player in control to interact with his character to view the scene, we should appear beside Shadowheart. |
 
-*Update* this bug has been fixed.
 
 
 
