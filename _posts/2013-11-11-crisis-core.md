@@ -19,7 +19,7 @@ The following are bugs and glitches I found during my playthrough of Crisis Core
 
 
 ## Episode 1
-### Darkness Screen Overlay Bug
+### Darkness attack, screen overlay effect
 
 | Platform      | Firmware        | Software | Location | Mission Name              |
 | ------------- | --------------- | -------- | -------- | ------------------------- |

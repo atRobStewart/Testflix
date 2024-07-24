@@ -33,7 +33,7 @@ Important Note, the version history for this game is hidden on PS5 so I cannot f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/omerc0Ii4Oc?si=DrySZcDbfNpj-CFa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-| Description |
+| Description (Captured on 04/09/2023)|
 | :-- |
 | Shadowheart appears in a scene in the player's mind between two paladins and a cleric. My assumption is she settled in this area when the dialogue was started, and it happened to be the stage for this scene. |
 | This scene doesn't appear until 40 seconds into the video, but she does appear three times before that, looking out of place. She's facing a different direction and isn't reacting to the point of interest. |

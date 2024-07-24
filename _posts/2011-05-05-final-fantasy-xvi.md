@@ -18,7 +18,7 @@ Except for regular frame drops despite playing in performance mode, Final Fantas
 
 
 ## Episode 1
-### Text Size Change
+### Text size change
 
 | Platform      | Firmware        | Software | Mission | Location     |
 | ------------- | --------------- | -------- | ------- | ------------ |
@@ -39,7 +39,7 @@ Except for regular frame drops despite playing in performance mode, Final Fantas
 
 
 ## Episode 2
-### Framerate Drops
+### Framerate drops
 
 | Platform      | Firmware        | Software | Main Mission    | Side Mission            |
 | ------------- | --------------- | -------- | --------------- | ----------------------- |
@@ -59,7 +59,7 @@ Except for regular frame drops despite playing in performance mode, Final Fantas
 
 
 ## Episode 3
-### Jump instead of Interact
+### Jump instead of interact
 
 | Platform      | Firmware        | Software | Main Mission      | Sub Mission         |
 | ------------- | --------------- | -------- | ----------------- | ------------------- |
@@ -78,7 +78,7 @@ Except for regular frame drops despite playing in performance mode, Final Fantas
 
 
 ## Episode 4
-### Graphical Mesh Glitch
+### Graphical mesh glitch
 
 | Platform      | Firmware        | Software | Main Mission | Sub Mission           |
 | ------------- | --------------- | -------- | ------------ | --------------------- |
@@ -98,7 +98,7 @@ Except for regular frame drops despite playing in performance mode, Final Fantas
 
 
 ## Episode 5
-### Slowly Cornered
+### Slowly cornered
 
 | Platform      | Firmware        | Software | Main Mission | Location                |
 | ------------- | --------------- | -------- | ------------ | ----------------------- |

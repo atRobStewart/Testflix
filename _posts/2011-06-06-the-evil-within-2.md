@@ -19,7 +19,7 @@ I'm five years late to this game, so I played it in its final state. Any bugs fo
 
 ## Episode 1
 
-### Gets Stuck While Falling
+### Gets stuck while falling
 
 | Platform      | Firmware        | Software | Chapter        | Location               |
 | ------------- | --------------- | -------- | -------------- | ---------------------- |
@@ -42,7 +42,7 @@ I'm five years late to this game, so I played it in its final state. Any bugs fo
 
 ## Episode 2
 
-### Snagged on Ground
+### Snagged on ground
 
 | Platform      | Firmware        | Software | Chapter         | Location                |
 | ------------- | --------------- | -------- | --------------- | ----------------------- |

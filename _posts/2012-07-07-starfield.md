@@ -19,7 +19,7 @@ Just one episode for Starfield so far and I fear it'll remain like this for quit
 
 
 ## Episode 1
-### A.I. Companion Fell Behind
+### A.I. companion fell behind
 
 | Platform      | Firmware        | Software | Planet/System          | Location   |
 | ------------- | --------------- | -------- | ---------------------- | ---------- |

@@ -18,7 +18,7 @@ This is a single episode from the Crash Bandicoot N. Sane Trilogy, and it's the 
 
 
 ## Feature Episode
-### Broken Camera
+### Broken camera
 
 | Platform     | Firmware        | Software | Game    | Level        |
 | ------------ | --------------- | -------- | ------- | ------------ |

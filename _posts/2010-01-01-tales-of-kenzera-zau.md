@@ -66,7 +66,7 @@ Blog section after the last episode goes into detail on my thoughts about each e
 
 
 ## Episode 3
-### Unresponsive Enemies
+### Unresponsive enemies
 
 
 | Platform      | Firmware          | Software | Location         | Mission                       |
