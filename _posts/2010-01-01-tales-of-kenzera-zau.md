@@ -17,6 +17,8 @@ paginate: false
 The following are bugs and glitches I found during my playthrough of Tales of Kenzera: Zau, presented in episodic fashion. Being a side-scrolling Metroidvania made it a more difficult game to find bugs in with the lack of z-axis interactability, but considering it's new, I knew bugs would be inevitable, and ultimately, this game didn't disappoint. I will also note that this game is an absolute gem and has a stunning amount of character, personality, and identity. I was hooked from start to finish, except for the break I had to take. Speaking of which, let's get to the first episode.
 <br>
 Blog section after the last episode goes into detail on my thoughts about each episode and is more personally written.
+<br>
+As of 29/07/2024, this game remains at version hotfix 1.1.1, and considering the recent layoffs at Surgent Studios, I'm assuming a further patch will not happen any time soon.
 
 
 
@@ -71,7 +73,7 @@ Blog section after the last episode goes into detail on my thoughts about each e
 
 | Platform      | Firmware          | Software | Location         | Mission                       |
 | ------------- | ----------------- | -------- | ---------------- | ----------------------------- |
-| PlayStation 5 | 24.03-09.20.00.05 | 1.1      | Ember's Spring   | Journey towards Mount Itshoka |
+| PlayStation 5 | 24.03-09.20.00.05 | 1.1.1    | Ember's Spring   | Journey towards Mount Itshoka |
 
 | Bug Severity | Priority level |
 | ------------ | -------------- |
@@ -91,9 +93,9 @@ Blog section after the last episode goes into detail on my thoughts about each e
 ## Episode 4
 ### Keep aiming with holding the L2 button down
 
-| Platform      | Firmware          | Software | Location  | Mission             |
-| ------------- | ----------------- | -------- | --------- | ------------------- |
-| PlayStation 5 | 24.03-09.20.00.05 | 1.1      | Woodlands | Return to Sabulana  |
+| Platform      | Firmware          | Software | Location  | Mission            |
+| ------------- | ----------------- | -------- | --------- | ------------------ |
+| PlayStation 5 | 24.03-09.20.00.05 | 1.1      | Woodlands | Return to Sabulana |
 
 | Bug Severity | Priority level |
 | ------------ | -------------- |
@@ -108,6 +110,28 @@ Blog section after the last episode goes into detail on my thoughts about each e
 | It's easy to fix by pressing and releasing L2 again. |
 | It is also easy to replicate by opening the map and releasing L2 while on the map screen. |
 | This bug is similar to the one found in episode 2. Note that it wasn't picked up in the 1.1 patch. |
+
+
+
+## Episode 5
+### Sudden death of Zau
+
+| Platform      | Firmware          | Software | Location      | Mission             |
+| ------------- | ----------------- | -------- | ------------- | ------------------- |
+| PlayStation 5 | 24.03-09.20.00.05 | 1.1.1    | Mount Itshoka | Climb to the summit |
+
+| Bug Severity | Priority level |
+| ------------ | -------------- |
+| Moderate     | Low            |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2vzwwmgvPAw?si=-keFKgUx41O6TC5j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Description (Captured on 31/05/2024) |
+| :-- |
+| Zau dies when he lands on a box that causes a platform to descend. |
+| The game may have applied a crushing event to the top of the box when both the box movement and platform descent happened simultaneously. |
+| The bug was difficult to reproduce. |
+
 
 ## Blog
 
@@ -128,3 +152,6 @@ The severity level is **minor** with a **low** priority level. I do have a few v
 
 ### Episode 4
 The severity level is **minor** but with a **medium** priority. This bug is similar to the one found in episode 2, but it was much more difficult to find in comparison, as its occurrence is primarily battle-specific, whereas episode 2's centered around movement. Given how long it took me to find it comparatively, I feel a low priority would be enough, but because of the similarity, I think medium is justified to bring more attention to the nature of the bug and get the QA team to find any more potential instances of it occurring.
+
+### Episode 5
+The severity level is **moderate** but with a **low** priority. I almost went with a low severity rating given how difficult it is to reproduce this bug, but considering it causes an unexpected player death, reverting to your last checkpoint, I feel it deserves a higher severity rating. However, considering the rarity of it, I do think it is of low priority, and bugs that recur more often should be dealt with first.
